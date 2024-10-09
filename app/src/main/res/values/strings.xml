@@ -1,3 +1,22 @@
 <resources>
     <string name="app_name">DAM_PabloPascual</string>
+    <string name="textview_nombreapellido">Apellidos y Nombre</string>
+    <string name="txt_ApellidosNombre" />
+    <string name="textview_CorreoElectrónico">Correo Electrónico</string>
+    <string name="txt_CorreoElectronico" />
+    <string name="textview_Clave">Clave</string>
+    <string name="txt_Clave" />
+    <string name="textview_FechaNacimiento">Fecha de Nacimiento</string>
+    <string name="textview_Carrera">Carrera</string>
+    <string name="txt_FechaNacimiento" />
+    <string name="radiobutton_IngenieríaSistemas">Ingeniería de Sistemas</string>
+    <string name="radiobutton_IngenieriaAmbiental">Ingeniería Ambiental</string>
+    <string name="radiobutton_IngenieriaMecanica">Ingeniería Mecánica</string>
+    <string name="Administracion">Administración</string>
+    <string name="textview_MedioConvocatoria">¿Por qué medio se enteró de la convocatoria?</string>
+    <string name="checkBox_Radio">Radio</string>
+    <string name="checkBox_Internet">Internet</string>
+    <string name="checkBox_Amigo">Amigo</string>
+    <string name="CheckBox_Publicidad">Publicidad</string>
+    <string name="button_Enviar">Enviar</string>
 </resources>
